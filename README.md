@@ -26,6 +26,66 @@
 
 
 
+<h1 align="center">Hi there 👋, I'm Aditya Patel</h1>
+<h3 align="center">A passionate Data Analyst from the US 🌎</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding gif" width="400" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityapatel1068&label=Profile%20views&color=blue&style=plastic" alt="Profile Views" />
+  <a href="mailto:aditya.patel2609@gmail.com">
+    <img src="https://img.shields.io/badge/-Email me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/adityapatel2609/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/rexusreborn" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h2>🔭 About Me</h2>
+  <p>
+    🎓 Data Analyst with expertise in Python, SQL, and Machine Learning.<br/>
+    🌟 Passionate about turning data into actionable insights.<br/>
+    🚀 Always exploring the latest in AI, Big Data, and Cloud Platforms.<br/>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>🚀 Highlights</h2>
+  <ul align="left">
+    <li>🔍 Specialized in predictive analytics and data visualization.</li>
+    <li>📈 Proficient in creating dashboards using Power BI and Tableau.</li>
+    <li>🌐 Skilled in cloud platforms like AWS and GCP.</li>
+    <li>📚 Lifelong learner exploring cutting-edge data technologies.</li>
+  </ul>
+</div>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/AdityaPatel1068/count.svg?"  />
 </div>
