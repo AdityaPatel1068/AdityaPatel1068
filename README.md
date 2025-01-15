@@ -51,30 +51,14 @@
 ---
 
 ### 🔭 **Professional Experience**
-- **Data Scientist** | **New Jersey Institute of Technology** (Mar 2024 - Dec 2024)
-  - Conducted spatiotemporal analysis of harmful algal blooms using advanced deep learning techniques like CNNs.
-  - Implemented 3D segmentation models using Open3D libraries to identify algal bloom patterns in large-scale datasets.
-  - Optimized data pipelines for geospatial data, reducing processing time by 20% and improving model accuracy.
-
-- **Business Analyst** | **Capline Service** (Feb 2022 - Mar 2023)
-  - Designed predictive billing models, boosting healthcare providers' revenue cycle efficiency by 15%.
-  - Leveraged SQL for data extraction and Excel for visualization to optimize decision-making processes.
+I bring diverse experience in data science and analytics, with a proven track record of driving impactful projects. As a **Data Scientist** at the **New Jersey Institute of Technology**, I led the development of advanced deep learning models for analyzing harmful algal blooms. Utilizing tools like CNNs and Open3D libraries, I optimized geospatial data processing, reducing processing time by 20% and improving model accuracy. Previously, as a **Business Analyst** at **Capline Service**, I designed predictive billing models that streamlined healthcare revenue cycles, leveraging SQL and data visualization techniques to increase efficiency by 15%.
 
 ---
 
 ### 📚 **Key Projects**
-- **AI-Based Exam Assessment (Sep 2024 - Dec 2024):**
-  - Developed an AI-powered grading system for handwritten exams using OCR for handwriting recognition.
-  - Improved grading accuracy by 20% and evaluated 1,200+ assignments, enhancing student satisfaction.
-  - Leveraged generative AI for grading pattern analysis and deployed pattern recognition models for detecting cheating behaviors.
-
-- **Real-Time ASL Interpreter (Sep 2023 - Dec 2023):**
-  - Created a video-based ASL interpreter with 96% accuracy using deep learning models trained on the WASL dataset.
-  - Integrated Google Text-to-Speech for audio output and optimized runtime efficiency by reducing data size by 87%.
-
-- **Climate Modeling (Jan 2024 - Mar 2024):**
-  - Designed a machine learning model for temperature forecasting using architectures like UNet and Vision Transformers.
-  - Achieved 94% predictive accuracy by implementing attention mechanisms and Graph Kernel Networks.
+- Developed an **AI-based exam grading system** that integrated OCR and generative AI for pattern recognition, improving grading accuracy by 20% across 1,200+ assignments while enhancing student satisfaction.
+- Created a **real-time ASL interpreter**, achieving 96% accuracy with deep learning models. Optimized runtime efficiency by reducing data size by 87% and deployed the solution for accessibility enhancement.
+- Designed a **climate modeling system** using state-of-the-art architectures, including UNet and Vision Transformers, achieving 94% predictive accuracy in temperature forecasting through advanced attention mechanisms.
 
 ---
 
