@@ -5,13 +5,14 @@
 
 ### 📜 **About Me**
 - 🎓 Graduated with a **Master's in Data Science** from **New Jersey Institute of Technology** (GPA: 4.0).
-- 💼 Currently a **Data Scientist** with prior experience as a **Business Analyst** and **Sales Professional**, specializing in data-driven solutions.
-- 🌟 Passionate about **Machine Learning**, **Big Data**, and building impactful **AI-powered solutions**.
-- 📊 Adept at transforming complex datasets into actionable insights using **Python**, **SQL**, and **Power BI**.
+- 💼 Currently a **Data Scientist**, with prior experience as a **Business Analyst** and **Sales Professional**, specializing in leveraging data-driven strategies to solve complex problems.
+- 🌟 My journey into data science stems from a desire to transform raw data into actionable insights. I transitioned from sales, where I analyzed customer patterns, to creating predictive models that drive efficiency and decision-making.
+- 📊 Adept at building robust AI-powered solutions, I actively work with tools like **Hadoop**, **CUDA**, and **MySQL Workbench** to handle and process large-scale datasets.
 
 ---
 
 ### 💻 **Technical Skills**
+#### Programming Languages:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
@@ -20,49 +21,61 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
 </div>
 
+#### Libraries & Frameworks:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+</div>
+
+#### Tools & Platforms:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" alt="Hadoop" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
 ---
 
 ### 🔭 **Professional Experience**
 - **Data Scientist** | **New Jersey Institute of Technology** (Mar 2024 - Dec 2024)
-  - Conducted spatiotemporal analysis of harmful algal blooms using advanced deep learning techniques.
-  - Enhanced data pipeline efficiency by 20% for large-scale geospatial datasets.
+  - Conducted spatiotemporal analysis of harmful algal blooms using advanced deep learning techniques like CNNs.
+  - Implemented 3D segmentation models using Open3D libraries to identify algal bloom patterns in large-scale datasets.
+  - Optimized data pipelines for geospatial data, reducing processing time by 20% and improving model accuracy.
 
 - **Business Analyst** | **Capline Service** (Feb 2022 - Mar 2023)
-  - Designed predictive billing models, boosting client satisfaction by 15%.
-  - Optimized healthcare billing cycles through SQL-based analytics.
+  - Designed predictive billing models, boosting healthcare providers' revenue cycle efficiency by 15%.
+  - Leveraged SQL for data extraction and Excel for visualization to optimize decision-making processes.
 
 ---
 
 ### 📚 **Key Projects**
-- **AI-Based Grading Solution (Sep 2024 - Dec 2024):**
-  - Created an OCR-powered AI system for grading handwritten exams.
-  - Improved grading accuracy by 20% and processed 1,200+ assignments.
+- **AI-Based Exam Assessment (Sep 2024 - Dec 2024):**
+  - Developed an AI-powered grading system for handwritten exams using OCR for handwriting recognition.
+  - Improved grading accuracy by 20% and evaluated 1,200+ assignments, enhancing student satisfaction.
+  - Leveraged generative AI for grading pattern analysis and deployed pattern recognition models for detecting cheating behaviors.
 
 - **Real-Time ASL Interpreter (Sep 2023 - Dec 2023):**
-  - Developed a video-based ASL interpreter with 96% accuracy.
-  - Integrated Google Text-to-Speech for enhanced accessibility.
+  - Created a video-based ASL interpreter with 96% accuracy using deep learning models trained on the WASL dataset.
+  - Integrated Google Text-to-Speech for audio output and optimized runtime efficiency by reducing data size by 87%.
 
 - **Climate Modeling (Jan 2024 - Mar 2024):**
-  - Built a predictive model for temperature forcing using UNet and ViT.
-  - Achieved 94% accuracy for climate data predictions.
+  - Designed a machine learning model for temperature forecasting using architectures like UNet and Vision Transformers.
+  - Achieved 94% predictive accuracy by implementing attention mechanisms and Graph Kernel Networks.
 
 ---
 
