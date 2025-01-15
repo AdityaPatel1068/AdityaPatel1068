@@ -11,6 +11,7 @@
 ---
 
 ### 💻 **Technical Skills**
+
 #### Programming Languages:
 <div align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -25,7 +26,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL" title="SQL" />
   </a>
 </div>
-
 
 ---
 
@@ -58,14 +58,6 @@
   <a href="https://docs.conda.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Conda" title="Conda" />
   </a>
-  <img width="12" />
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  </a>
-  <img width="12" />
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  </a>
 </div>
 
 ---
@@ -73,7 +65,7 @@
 #### Tools & Platforms:
 <div align="left">
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" title="AWS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="AWS" />
   </a>
   <img width="12" />
   <a href="https://www.mysql.com/" target="_blank">
@@ -96,6 +88,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
   </a>
 </div>
+
 ---
 
 ### 🔭 **Professional Experience**
