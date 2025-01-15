@@ -107,8 +107,6 @@ I have extensive experience in data science and analytics, with a proven track r
 ### 🐍 **GitHub Contributions**
 ![snake gif](https://github.com/AdityaPatel1068/AdityaPatel1068/blob/output/github-snake-dark.svg)
 
-![snake gif](https://github.com/AdityaPatel1068/AdityaPatel1068/blob/output/github-snake.svg)
-
 
 
 ---
