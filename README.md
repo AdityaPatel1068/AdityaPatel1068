@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aditya Patel</h1>
+<h1 align="center">Hey! 👋, I'm Aditya</h1>
 <h3 align="center">A Data Scientist with a Passion for Machine Learning and Big Data</h3>
 
 ---
 
 ### 📜 **About Me**
 - 🎓 Graduated with a **Master's in Data Science** from **New Jersey Institute of Technology** (GPA: 4.0).
-- 💼 Currently a **Data Scientist**, with prior experience as a **Business Analyst** and **Sales Professional**, specializing in leveraging data-driven strategies to solve complex problems.
+- 💼 Currently a **Data Scientist**, with prior experience as a **Business Analyst** and **Business development**, specializing in leveraging data-driven strategies to solve complex problems.
 - 🌟 My journey into data science stems from a desire to transform raw data into actionable insights. I transitioned from sales, where I analyzed customer patterns, to creating predictive models that drive efficiency and decision-making.
-- 📊 Adept at building robust AI-powered solutions, I actively work with tools like **Hadoop**, **CUDA**, and **MySQL Workbench** to handle and process large-scale datasets.
-
+- 📊 Skilled in developing AI-powered solutions, I specialize in leveraging **Python**  and **SQL** for data analysis and predictive modeling, while occasionally utilizing **CUDA** and **Hadoop** for processing large-scale datasets.
 ---
 
 ### 💻 **Technical Skills**
