@@ -105,11 +105,8 @@ I have extensive experience in data science and analytics, with a proven track r
 ---
 
 ### 🐍 **GitHub Contributions**
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AdityaPatel1068/count.svg?" alt="Profile Views" />
-</div>
+![snake gif](https://github.com/AdityaPatel1068/AdityaPatel1068/blob/output/github-snake-dark.svg)
 
-<img src="https://raw.githubusercontent.com/AdityaPatel1068/AdityaPatel1068/output/snake.svg" alt="Snake Animation" />
 
 ---
 
