@@ -51,7 +51,8 @@
 ---
 
 ### 🔭 **Professional Experience**
-I bring diverse experience in data science and analytics, with a proven track record of driving impactful projects. As a **Data Scientist** at the **New Jersey Institute of Technology**, I led the development of advanced deep learning models for analyzing harmful algal blooms. Utilizing tools like CNNs and Open3D libraries, I optimized geospatial data processing, reducing processing time by 20% and improving model accuracy. Previously, as a **Business Analyst** at **Capline Service**, I designed predictive billing models that streamlined healthcare revenue cycles, leveraging SQL and data visualization techniques to increase efficiency by 15%.
+I have extensive experience in data science and analytics, with a proven track record of delivering impactful projects. As a **Research Assistant** at the **New Jersey Institute of Technology**, I led the development of advanced deep learning models to analyze harmful algal blooms in New Jersey lakes. By integrating satellite imagery and ground sensor data, I conducted data collection, processing, and analysis to derive actionable insights. Previously, as a **Business Analyst** at **Capline Service**, I developed predictive billing models that optimized healthcare revenue cycles, leveraging SQL and data visualization tools to improve efficiency by 15%.
+
 
 ---
 
