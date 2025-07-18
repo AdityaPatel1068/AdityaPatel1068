@@ -1,81 +1,94 @@
-<h1 align="center">Hey! 👋 I'm Aditya</h1>
-<h3 align="center">Data Scientist | Big Data & Machine Learning Enthusiast</h3>
+
+<h1 align="center">Hey! 👋 I'm Aditya Patel</h1>
+<h3 align="center">Data Scientist | Machine Learning | Real-Time Analytics | Big Data</h3>
+
+<p align="center">
+  <a href="https://github.com/AdityaPatel1068" target="_blank">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/adityapatel2609/" target="_blank">LinkedIn</a> • 
+  <a href="mailto:adityapatelcareer@gmail.com">Email</a> • 
+  <a href="https://theadityapatel.com" target="_blank">Portfolio</a>
+</p>
 
 ---
 
-### 📜 About Me
-- 🎓 Master’s in Data Science from **NJIT** — GPA: 4.0
-- 💼 Working as a **Data Scientist**, with a strong foundation in **business analysis** and **data engineering**
-- 📊 I love solving complex real-world problems using **ML**, **big data pipelines**, and **cloud solutions**
-- 🛠️ Skilled in **Python**, **SQL**, **Tableau**, **Power BI**, **AWS**, and **TensorFlow**
+### 🧠 About Me
+Hi, I'm Aditya — a Data Scientist with hands-on experience in healthcare, finance, and retail domains, specializing in predictive modeling, data engineering, and real-time analytics. I’ve designed and deployed end-to-end ML pipelines using tools like **Apache NiFi, Talend, Snowflake, Power BI**, and **AWS**, focusing on cost-efficiency, compliance, and scalability.
+
+---
+
+### 🎓 Education
+
+#### 🎓 Master of Science in Data Science (2023 – 2024)
+**New Jersey Institute of Technology** — CGPA: 4.0  
+Coursework: ML, Applied Stats, Data Mining, Cloud, Big Data, Visualization, Python for ML
+
+#### 🎓 B.Tech. in Mechanical Engineering (2015 – 2019)
+**Dr. A.P.J. Abdul Kalam Technical University** — CGPA: 3.2  
 
 ---
 
 ### 💻 Technical Skills
 
-#### 🧮 Programming Languages
+#### 🧮 Languages, Libraries & Frameworks
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" title="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" title="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" title="PyTorch"/>
 </div>
 
 #### 📊 Visualization & Reporting
 <div>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" height="30" title="Tableau" />
-  <img src="https://img.icons8.com/color/48/microsoft-power-bi.png" height="30" title="Power BI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="30" title="Tableau"/>
+  <img src="https://img.icons8.com/color/48/microsoft-power-bi.png" height="30" title="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" title="Matplotlib"/>
 </div>
 
 #### ☁️ Cloud & Platforms
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" title="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" title="GCP"/>
 </div>
 
-#### ⚙️ ML & Frameworks
+#### 🗃️ Databases & ETL Tools
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" title="Oracle"/>
 </div>
 
-#### 📦 Version Control & Collaboration
+#### ⚙️ Version Control & DevOps
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
-  <img src="https://img.icons8.com/ios/50/jira.png" height="30" title="JIRA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" title="GitHub"/>
 </div>
 
 ---
 
 ### 🚀 Featured Projects
 
-- **ASL Interpreter** – Real-time sign language detection with 96% accuracy using deep learning.
-- **AI Grading System** – OCR + GPT-based system for automated paper evaluation.
-- **Climate Modeler** – Used UNet and ViTs to predict temperature fluctuations with 94% accuracy.
+- 🔤 **ASL Interpreter**: Real-time deep learning model for sign language → 96% accuracy  
+- 🧪 **AI Grading Engine**: OCR + GPT + Cheating Pattern Detection for handwritten answer sheets  
+- 🌎 **Climate Trend Modeler**: ViT + UNet to forecast temperature fluctuations from climate data  
+- 🎥 **Harmful Algal Bloom Predictor**: Detects blooms using satellite data + geospatial ML  
+- 🎬 **IMDB Movie Analysis**: Movie trend analytics using IMDb and Rotten Tomatoes datasets  
 
 ---
 
 ### 📈 GitHub Activity
+
 ![snake gif](https://github.com/AdityaPatel1068/AdityaPatel1068/blob/output/github-snake-dark.svg)
 
 ---
 
-### 📬 Let's Connect
+### 📬 Contact Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/adityapatel2609/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/rexus_reborn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter" />
-  </a>
-  <a href="mailto:aditya.patel2609@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
-  </a>
-</div>
+- 📧 **Email**: [adityapatelcareer@gmail.com](mailto:adityapatelcareer@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/adityapatel2609](https://linkedin.com/in/adityapatel2609)  
+- 🌐 **Portfolio**: [theadityapatel.com](https://theadityapatel.com)  
+- 🧠 **LeetCode**: [leetcode.com/Rexus_Reborn](https://leetcode.com/Rexus_Reborn/) — *123 solved*
