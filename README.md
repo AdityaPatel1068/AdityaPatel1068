@@ -1,33 +1,6 @@
-# Update the logo base path to reflect the latest branch 'main' instead of a specific commit hash
-base_logo_url_main = "https://raw.githubusercontent.com/gilbarbara/logos/main/logos"
+# Generate a version of the README with text labels instead of icons
 
-# Redefine logos with updated paths
-logos_main = {
-    "Python": f"{base_logo_url_main}/python.svg",
-    "R": f"{base_logo_url_main}/r-lang.svg",
-    "MySQL": f"{base_logo_url_main}/mysql.svg",
-    "Oracle": f"{base_logo_url_main}/oracle.svg",
-    "PostgreSQL": f"{base_logo_url_main}/postgresql.svg",
-    "TensorFlow": f"{base_logo_url_main}/tensorflow.svg",
-    "PyTorch": f"{base_logo_url_main}/pytorch-icon.svg",
-    "Tableau": f"{base_logo_url_main}/tableau-software.svg",
-    "Power BI": f"{base_logo_url_main}/power-bi.svg",
-    "AWS": f"{base_logo_url_main}/amazon-web-services.svg",
-    "Azure": f"{base_logo_url_main}/microsoft-azure.svg",
-    "GCP": f"{base_logo_url_main}/google-cloud.svg",
-    "Git": f"{base_logo_url_main}/git-icon.svg",
-    "GitHub": f"{base_logo_url_main}/github-icon.svg",
-    "Pandas": f"{base_logo_url_main}/pandas-icon.svg",
-    "Matplotlib": f"{base_logo_url_main}/matplotlib-icon.svg"
-}
-
-# Generate table rows for categorized skills
-def make_skill_table(skill_list):
-    cells = "".join(f'<td align="center"><img src="{logos_main.get(skill, "")}" height="40"/><br>{skill}</td>' for skill in skill_list)
-    return f"<table><tr>{cells}</tr></table>"
-
-# Final README content with logo URLs from friend's repo
-final_readme_with_friend_logos = f"""
+text_skills_readme = """
 <h1 align="center">Hey! 👋 I'm Aditya Patel</h1>
 <h3 align="center">Data Scientist | Machine Learning | Real-Time Analytics | Big Data</h3>
 
@@ -59,16 +32,19 @@ Coursework: ML, Applied Stats, Data Mining, Cloud, Big Data, Visualization, Pyth
 ### 💻 Technical Skills
 
 #### 🧮 Languages, Libraries & Frameworks
-{make_skill_table(["Python", "R", "MySQL", "Oracle", "PostgreSQL", "TensorFlow", "PyTorch"])}
+**Python**, **R**, **MySQL**, **Oracle**, **PostgreSQL**, **TensorFlow**, **PyTorch**
 
 #### 📊 Visualization & Reporting
-{make_skill_table(["Tableau", "Power BI", "Pandas", "Matplotlib"])}
+**Tableau**, **Power BI**, **Pandas**, **Matplotlib**
 
 #### ☁️ Cloud & Platforms
-{make_skill_table(["AWS", "Azure", "GCP"])}
+**AWS**, **Azure**, **GCP**
+
+#### 🗃️ Databases & ETL Tools
+**MySQL**, **PostgreSQL**, **Oracle**
 
 #### ⚙️ Version Control & DevOps
-{make_skill_table(["Git", "GitHub"])}
+**Git**, **GitHub**
 
 ---
 
@@ -96,8 +72,8 @@ Coursework: ML, Applied Stats, Data Mining, Cloud, Big Data, Visualization, Pyth
 - 🧠 **LeetCode**: [leetcode.com/Rexus_Reborn](https://leetcode.com/Rexus_Reborn/) — *123 solved*
 """
 
-# Save the final version with friend's GitHub-hosted icons
-friend_logo_readme_path = Path("/mnt/data/README_friend_icons.md")
-friend_logo_readme_path.write_text(final_readme_with_friend_logos)
+# Save the version with plain text skills
+text_readme_path = Path("/mnt/data/README_text_skills.md")
+text_readme_path.write_text(text_skills_readme)
 
-friend_logo_readme_path.name
+text_readme_path.name
