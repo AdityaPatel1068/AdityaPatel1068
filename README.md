@@ -1,4 +1,33 @@
+# Update the logo base path to reflect the latest branch 'main' instead of a specific commit hash
+base_logo_url_main = "https://raw.githubusercontent.com/gilbarbara/logos/main/logos"
 
+# Redefine logos with updated paths
+logos_main = {
+    "Python": f"{base_logo_url_main}/python.svg",
+    "R": f"{base_logo_url_main}/r-lang.svg",
+    "MySQL": f"{base_logo_url_main}/mysql.svg",
+    "Oracle": f"{base_logo_url_main}/oracle.svg",
+    "PostgreSQL": f"{base_logo_url_main}/postgresql.svg",
+    "TensorFlow": f"{base_logo_url_main}/tensorflow.svg",
+    "PyTorch": f"{base_logo_url_main}/pytorch-icon.svg",
+    "Tableau": f"{base_logo_url_main}/tableau-software.svg",
+    "Power BI": f"{base_logo_url_main}/power-bi.svg",
+    "AWS": f"{base_logo_url_main}/amazon-web-services.svg",
+    "Azure": f"{base_logo_url_main}/microsoft-azure.svg",
+    "GCP": f"{base_logo_url_main}/google-cloud.svg",
+    "Git": f"{base_logo_url_main}/git-icon.svg",
+    "GitHub": f"{base_logo_url_main}/github-icon.svg",
+    "Pandas": f"{base_logo_url_main}/pandas-icon.svg",
+    "Matplotlib": f"{base_logo_url_main}/matplotlib-icon.svg"
+}
+
+# Generate table rows for categorized skills
+def make_skill_table(skill_list):
+    cells = "".join(f'<td align="center"><img src="{logos_main.get(skill, "")}" height="40"/><br>{skill}</td>' for skill in skill_list)
+    return f"<table><tr>{cells}</tr></table>"
+
+# Final README content with logo URLs from friend's repo
+final_readme_with_friend_logos = f"""
 <h1 align="center">Hey! 👋 I'm Aditya Patel</h1>
 <h3 align="center">Data Scientist | Machine Learning | Real-Time Analytics | Big Data</h3>
 
@@ -30,54 +59,18 @@ Coursework: ML, Applied Stats, Data Mining, Cloud, Big Data, Visualization, Pyth
 ### 💻 Technical Skills
 
 #### 🧮 Languages, Libraries & Frameworks
-<table>
-<tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" title="R"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" title="Oracle"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/></td>
-</tr>
-</table>
+{make_skill_table(["Python", "R", "MySQL", "Oracle", "PostgreSQL", "TensorFlow", "PyTorch"])}
 
 #### 📊 Visualization & Reporting
-<table>
-<tr>
-  <td><img src="https://img.icons8.com/color/48/tableau-software.png" height="40" title="Tableau"/></td>
-  <td><img src="https://img.icons8.com/color/48/microsoft-power-bi.png" height="40" title="Power BI"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib"/></td>
-</tr>
-</table>
+{make_skill_table(["Tableau", "Power BI", "Pandas", "Matplotlib"])}
 
 #### ☁️ Cloud & Platforms
-<table>
-<tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" title="AWS"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" title="Azure"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" title="GCP"/></td>
-</tr>
-</table>
-
-#### 🗃️ Databases & ETL Tools
-<table>
-<tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" title="Oracle"/></td>
-</tr>
-</table>
+{make_skill_table(["AWS", "Azure", "GCP"])}
 
 #### ⚙️ Version Control & DevOps
-<table>
-<tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/></td>
-</tr>
-</table>
+{make_skill_table(["Git", "GitHub"])}
 
+---
 
 ### 🚀 Featured Projects
 
@@ -101,3 +94,10 @@ Coursework: ML, Applied Stats, Data Mining, Cloud, Big Data, Visualization, Pyth
 - 💼 **LinkedIn**: [linkedin.com/in/adityapatel2609](https://linkedin.com/in/adityapatel2609)  
 - 🌐 **Portfolio**: [theadityapatel.com](https://theadityapatel.com)  
 - 🧠 **LeetCode**: [leetcode.com/Rexus_Reborn](https://leetcode.com/Rexus_Reborn/) — *123 solved*
+"""
+
+# Save the final version with friend's GitHub-hosted icons
+friend_logo_readme_path = Path("/mnt/data/README_friend_icons.md")
+friend_logo_readme_path.write_text(final_readme_with_friend_logos)
+
+friend_logo_readme_path.name
